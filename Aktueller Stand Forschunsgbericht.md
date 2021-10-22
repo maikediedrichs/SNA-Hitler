@@ -1,6 +1,6 @@
 <h1>Aktueller Stand des Forschungsberichts - Gruppe 1 NSDAP/Hitler</h1>
 
-Story Idee Edit-Bericht:
+<b>Story Idee Edit-Bericht:</b>
 -	NSDAP wurde vor allem in den späten 20er/frühen 30er Jahren beliebt, aber seine engen persönlichen Unterstützer hatte Hitler schon viel früher; Wer waren sie und wo kamen sie her? Auf welche Art haben sie ihn unterstützt? 1-3 Personen konkret portraitieren? Darunter vielleicht auch eine Person, die sich irgendwann abgewendet hat, um zu zeigen dass nicht jeder mit Hitler und den Entwicklungen einverstanden war.
 Status des Forschungsberichts:
 -	Aufgeteilt, Inhalte in Stichworten festgelegt
