@@ -11,17 +11,18 @@
 <b>Hilfreiches theoretisches Konzept mit Erklärungspotenzial: </b>
 -	Problem: Durch fehlende Verbindungen der Knoten untereinander sind theoretische Konzepte nicht wirklich anwendbar
 -	Eine Möglichkeit wäre das Diffusionsmodell -> Die Größe der Teilnetzwerke nach Wahlperioden entsprechen aber nicht der Erwartung von Rogers
--	2. Möglichkeit: Homophilie -> viele haben bereits ähnliche politische Prägung wie Hitler (Anti-Kommunistisch, etc.), auch Alter und Geschlecht sehr homogen
--	Aktivitäts-Foki könnte großen Anteil an Münchner Unterstützern erklären  direkten Kontakt zu Hitler, vor allem in den Anfangsjahren <br>
+-	Zweite Möglichkeit: Homophilie -> viele haben bereits ähnliche politische Prägung wie Hitler (Anti-Kommunistisch, etc.), auch Alter und Geschlecht sehr homogen
+-	Aktivitäts-Foki könnte großen Anteil an Münchner Unterstützern erklären -> direkten Kontakt zu Hitler, vor allem in den Anfangsjahren <br>
 
 <b>Grundlegende Idee der Visualisierung </b>
 -	Gesamtnetzwerk mit Hitler in der Mitte 
--	Viele Teilnetzwerke, um vergleichen zu können
-  o	zeitlich
-  o	Hintergrund
-  o	Wohnort
-  o	Art der Unterstützung
+-	Viele Teilnetzwerke, um vergleichen zu können <br>
+  o	zeitlich<br>
+  o	Hintergrund<br>
+  o	Wohnort<br>
+  o	Art der Unterstützung<br>
   o	Beteiligung Putsch <br>
+
 <b>Offene Fragen:</b>
 -	Dürfen wir ein Bild das über 70 Jahre alt ist für den Edit-Beitrag verwenden, da das Urheberrecht nach 70 Jahren verfällt?
 -	Müssen wir einen genaueren thematischen Fokus für edit setzen?
